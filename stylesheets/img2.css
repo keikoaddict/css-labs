@@ -1,0 +1,33 @@
+body, td, th {
+	color: #330033;
+}
+
+h1, h2, h4 {
+	color: #330000;
+}
+
+h3, h5, h6 {
+	color: #996666;
+}
+
+a {
+  color: #006666;
+}
+
+#contents{
+	position:relative
+}
+
+#contents img.ballon{
+	position:absolute;
+	top:11px;
+	left:323px;
+}
+#contents p.thinking{
+	position:absolute;
+	top:20px;
+	left:370px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:14px;
+	width:100px;
+}
